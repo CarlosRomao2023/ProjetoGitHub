@@ -7,11 +7,13 @@ package com.mycompany.projetogithub;
 
 /**
  *
- * @author a22025
+ * @author Carlos Romão
  */
 public class ProjetoGitHub {
 
     public static void main(String[] args) {
-        System.out.println("Hello GitHub!");
+        System.out.println("Hello GitHub!!");
+        //Falta aqui um comentario......
+        System.out.println("Hello GitHub!!");
     }
 }
